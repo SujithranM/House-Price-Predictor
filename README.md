@@ -6,12 +6,6 @@ A full end-to-end machine learning project that predicts house prices using the 
 
 ---
 
-## 🚀 Live Demo
-
-[Click here to try the app](#) ← replace with your Streamlit Cloud URL
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -122,6 +116,6 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Sujithran Madhiwanan**
+- GitHub: [@SujithranM](https://github.com/SujithranM)
+- LinkedIn: [Sujithran Madhiwanan](https://linkedin.com/in/sujithran-madhiwanan)
